@@ -198,7 +198,7 @@ const Index = () => {
                 <CardHeader>
                   <CardTitle className="text-2xl">{tariff.name}</CardTitle>
                   <CardDescription>
-                    <span className="text-4xl font-bold text-foreground">{tariff.price}₽</span>
+                    <span className="text-4xl font-bold text-foreground">500₽</span>
                     <span className="text-muted-foreground">/мес</span>
                   </CardDescription>
                 </CardHeader>
