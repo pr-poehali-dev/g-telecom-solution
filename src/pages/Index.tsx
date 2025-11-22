@@ -387,7 +387,7 @@ const Index = () => {
                     </div>
                     <div>
                       <div className="font-semibold mb-1">Email</div>
-                      <div className="text-muted-foreground">support@g-telecom.ru</div>
+                      <div className="text-muted-foreground">info.g-telecom.ru</div>
                       <div className="text-sm text-muted-foreground">Ответим в течение часа</div>
                     </div>
                   </div>
