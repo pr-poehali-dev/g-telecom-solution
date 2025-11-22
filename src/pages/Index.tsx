@@ -24,7 +24,7 @@ const Index = () => {
       price: '600',
       data: 'Безлимит',
       minutes: '700 мин',
-      sms: '300 SMS',
+      sms: '700 SMS',
       features: ['Безлимит на мессенджеры', '5G', 'Перенос номера', 'Роуминг по России'],
       popular: true,
     },
