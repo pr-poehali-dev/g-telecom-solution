@@ -14,7 +14,7 @@ const Index = () => {
       name: 'Старт',
       price: '300',
       data: '100 ГБ',
-      minutes: '500 мин',
+      minutes: '300 мин',
       sms: '100 SMS',
       features: ['Безлимит на мессенджеры', '4G/LTE', 'Перенос номера'],
       popular: false,
