@@ -12,7 +12,7 @@ const Index = () => {
   const tariffs = [
     {
       name: 'Старт',
-      price: '300',
+      price: '500',
       data: '100 ГБ',
       minutes: '300 мин',
       sms: '0 SMS',
