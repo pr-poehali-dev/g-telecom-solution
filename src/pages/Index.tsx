@@ -23,7 +23,7 @@ const Index = () => {
       name: 'Про',
       price: '600',
       data: 'Безлимит',
-      minutes: '1500 мин',
+      minutes: '700 мин',
       sms: '300 SMS',
       features: ['Безлимит на мессенджеры', '5G', 'Перенос номера', 'Роуминг по России'],
       popular: true,
