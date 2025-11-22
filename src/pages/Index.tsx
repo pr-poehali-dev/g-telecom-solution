@@ -21,7 +21,7 @@ const Index = () => {
     },
     {
       name: 'Про',
-      price: '600',
+      price: '500',
       data: 'Безлимит',
       minutes: '700 мин',
       sms: '700 SMS',
