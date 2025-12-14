@@ -131,7 +131,7 @@ const Index = () => {
               Связь будущего уже сегодня
             </h1>
             <p className="text-xl md:text-2xl text-muted-foreground mb-8">
-              G-Telecom — передовые технологии связи, выгодные тарифы и лучшее покрытие 5G
+              Салон сотовой связи G-Telecom — передовые технологии связи, выгодные тарифы и лучшее покрытие 5G
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button size="lg" className="bg-gradient-to-r from-primary to-secondary text-lg px-8 animate-glow">
